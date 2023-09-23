@@ -1,0 +1,35 @@
+@import url("reset.css");
+
+
+.list {
+   color:red;
+}
+.main-title {
+   color:black;
+}
+.info {
+   color: blue;
+}
+.title {
+   color:midnightblue;
+}
+.sub-title {
+   color:aquamarine;
+}
+.list-info {
+   color: deeppink;
+}
+#history {
+   color: green;
+}
+div.title{
+   color: dimgray;
+}
+.info > p{
+   color: dodgerblue;
+}
+a{
+   color: chartreuse;
+}
+
+
